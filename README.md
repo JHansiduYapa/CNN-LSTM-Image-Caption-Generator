@@ -47,7 +47,7 @@ The table below shows example output images arranged in a two-column grid along 
 | ![Result 1](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_01.png) | ![Result 2](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_02.png)|
 | ![Result 3](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_03.png) | ![Result 4](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_04.png)|
 | ![Result 1](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_05.png) | ![Result 2](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_06.png)|
-| ![Result 3](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_07.png) | ![Result 4](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_07.png)|
+| ![Result 3](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_07.png) | ![Result 4](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_08.png)|
 
 ## Checkpoints
 
