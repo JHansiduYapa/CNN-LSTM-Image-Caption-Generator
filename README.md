@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook that implements an image caption gen
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/architecture.png)
 
 *The architecture diagram was inspired by the article "[Solving an Image Captioning Task Using Deep Learning](https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/)" on Analytics Vidhya.*
 
@@ -44,10 +44,10 @@ The table below shows example output images arranged in a two-column grid along 
 
 | Result Image 1 | Result Image 2 |
 | -------------- | -------------- |
-| ![Result 1](results/result1.png) <br> **Caption:** *A dog running in the park.* | ![Result 2](results/result2.png) <br> **Caption:** *A child playing with a ball.* |
-| ![Result 3](results/result3.png) <br> **Caption:** *A beautiful sunset over the mountains.* | ![Result 4](results/result4.png) <br> **Caption:** *A man riding a bicycle on the street.* |
-
-> **Note:** Update the images and captions in the `results/` folder with your generated outputs.
+| ![Result 1](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_01.png) | ![Result 2](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_02.png)|
+| ![Result 3](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_03.png) | ![Result 4](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_04.png)|
+| ![Result 1](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_05.png) | ![Result 2](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_06.png)|
+| ![Result 3](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_07.png) | ![Result 4](https://github.com/janith99hansidu/Attention-CNN-LSTM-Image-Caption-Generator/blob/main/src/test_07.png)|
 
 ## Checkpoints
 
