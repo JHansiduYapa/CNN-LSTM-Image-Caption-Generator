@@ -34,6 +34,8 @@ This repository contains a Jupyter Notebook that implements an image caption gen
    - Open the notebook and run all cells to preprocess the data, build the vocabulary, and train the model.
    - The notebook will display the training loss and sample generated captions as it trains.
 
+  ![Training loss curve](https://github.com/janith99hansidu/CNN-LSTM-Image-Caption-Generator/blob/main/src/loss_curve.png)
+
 3. **Inference**  
    - Use the trained model to generate captions on new images.
    - Sample output images along with their generated captions are saved in the `results/` directory.
